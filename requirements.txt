@@ -1,0 +1,8 @@
+numpy
+pillow
+opencv-python
+torch
+torchvision
+transformers
+python-docx
+tk
