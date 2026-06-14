@@ -419,4 +419,3 @@ Water & Vegetation ➜ Mining & Barren Land
 The AI successfully identified significant environmental degradation and generated automated recommendations for further investigation.
 ```
 
-This will display the image beautifully on your GitHub repository page.
